@@ -6,6 +6,6 @@ Hi everyone, my name is Myranda and I'm a 2nd year MURP, with a concentration in
 ## description of the course
 This course will help students address urban problems by using Python to spatially represent data.
 ## project ideas
-One of the project ideas I have in mind is mapping 📍 lived experiences of climate change experiences in vulnerable communities based on survey data.
+One of the project ideas I have in mind is mapping 📍 lived experiences of climate change experiences in vulnerable communities based on survey data from work.
 ## objectives for class
 I have zero experience with Python and GIS, so I hope I can learn a new skill set that will help me create effective maps🗺️.
